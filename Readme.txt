@@ -1,0 +1,5 @@
+機器學習模型訓練全流程！ Create_ML_Model_Flow_Chart
+
+URL: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247525980&idx=1&sn=8130bb4d1a450bf9a199c919bf48a1a4&chksm=e873b711df043e073f402441cac9f4a9b28b51d0d3195a783ee9ea9a34319fd2809070c34526&scene=126&sessionid=1597022919&key=baed9475c9f7eb8b8c6b35fcec4f075507d3f4e60402e6941f730991c1d1c916bc3e02df42be34d20f8d361613de555a608ef27261cdfe60a0b93068da97cffa5f90dc7a41620ed78a9a54597de2df03&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_TW&exportkey=Arh4n%2BrxqoomKTj6ipxXtbU%3D&pass_ticket=bcptEc43IhovbbdHgESZRUlBrmUNtXyGgbYx0VRjLzYvuTK2SF0pbyLwFb%2BjVrxY
+GITHUB: https://github.com/dataprofessor/infographic
+YouTube: http://youtube.com/dataprofessor/
